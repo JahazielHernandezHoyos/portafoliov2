@@ -6,8 +6,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "holapapa": "#f0f0f0",
+        holapapa: "#FFEC00",
+      },
     },
+    plugins: [],
   },
-  plugins: [],
-}
+};
